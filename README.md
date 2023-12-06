@@ -9,6 +9,7 @@ The repository contains multiple tools which can be used to aid in the field of 
 - **software.py** - The main software file to open the image, annotate (once image opens click on the area of interest and shade it) and save (click 's' to save the pixels annotated).
 - **barcodes.py** - Once the pixels are saved run this file to map the corresponding barcodes
 - **backtrack.py** - Use this to map the pixels saved to the image and open the modified image
+- **integration_example.R** - This contains the method to integrate the python scripts into the R environment
 
 ## Requirements
 - You need to have the 'fullres.jpg' as well as the 'tissue_positions.csv' file in the same directory as the code scripts for the code to work
