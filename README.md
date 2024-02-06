@@ -3,7 +3,7 @@ The repository contains multiple tools which can be used to aid in the field of 
 
 ## Running Demo
 - **Step-1** 
-Clone the repository using 
+Clone the repository and install all the requirements (see deployments section)
 - **Step-2** 
 Download the sample image data and save it into the 'itr_2' directory - https://www.dropbox.com/s/3iujycshhojja6q/Cn3.jpg?dl=0 
 - **Step-3** 
