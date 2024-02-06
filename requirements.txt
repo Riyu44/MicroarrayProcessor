@@ -1,0 +1,6 @@
+opencv-python>=4.7.0.71
+matplotlib>=3.8.2
+numpy>=1.23.7
+pandas>=1.5.3
+Pillow>=9.4.0
+scipy>=1.9.3
