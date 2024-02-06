@@ -8,7 +8,7 @@ Clone the repository and install all the requirements (see deployments section)
 - **Step-2** 
 Download the sample image data and save it into the 'itr_2' directory - https://www.dropbox.com/s/3iujycshhojja6q/Cn3.jpg?dl=0 
 - **Step-3** 
-Run the script software.py followed by barcodes.py using the commands below, where '<name of the downloaded sample image>' is 'Cn3.jpg' by default. Follow the functionalities sub-heading to get started.
+Run the script software.py followed by barcodes.py using the commands below, where 'name of the downloaded sample image' is 'Cn3.jpg' by default. Follow the functionalities sub-heading to get started.
 ```bash
   python software.py <name of the downloaded sample image>
 ```
